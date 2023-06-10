@@ -12,7 +12,7 @@ import springfox.documentation.service.ApiInfo;
 import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
 
-//丝袜哥地址:
+//swagger地址:
 //http://localhost:8081/doc.html#/home
 @Configuration
 @EnableKnife4j
@@ -34,7 +34,7 @@ public class SwaggerConfig extends WebMvcConfigurationSupport {
 	}
 	private ApiInfo apiInfo() {
 		return new ApiInfoBuilder()
-				.title("魔方医药")
+				.title("金牌医师大病房")
 				.version("1.0")
 				.description("接口文档")
 				.build();

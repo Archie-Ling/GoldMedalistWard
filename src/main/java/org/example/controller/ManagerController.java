@@ -20,11 +20,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * @author Keat-Jie
- * @version 1.0
- * @date 2023/2/21
- */
+
 @Slf4j
 @RestController
 @RequestMapping("/manager")

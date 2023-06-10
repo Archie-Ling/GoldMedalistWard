@@ -5,12 +5,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0daa763-f6a6-4b93-846d-636aa9ee242c" name="Changes" comment="完成">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ae220da8-e4cf-4b61-a6f3-5a7e146209b0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ae220da8-e4cf-4b61-a6f3-5a7e146209b0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/config/LoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/config/LoginInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/config/MyMvcConfigure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/config/MyMvcConfigure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controller/AppointmentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/AppointmentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controller/ColumntableController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/ColumntableController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controller/CompanyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/CompanyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controller/DepartmentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/DepartmentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controller/ManagerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/ManagerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mapper/AllergyMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mapper/AllergyMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mapper/AppointmentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mapper/AppointmentMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mapper/ColumntableMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mapper/ColumntableMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mapper/CompanyMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mapper/CompanyMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mapper/DepartmentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mapper/DepartmentMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mapper/DiseaseMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mapper/DiseaseMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mapper/DispensingMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mapper/DispensingMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mapper/DoctorMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mapper/DoctorMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mapper/ManagerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mapper/ManagerMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mapper/MedicineMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mapper/MedicineMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/AllergyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/AllergyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/AppointmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/AppointmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/ColumntableService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/ColumntableService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/CompanyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/CompanyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/DepartmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/DepartmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/DiseaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/DiseaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/DispensingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/DispensingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/DoctorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/DoctorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/ManagerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/ManagerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/MedicineService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/MedicineService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/impl/AllergyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/AllergyServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/impl/AppointmentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/AppointmentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/impl/ColumntableServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/ColumntableServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/impl/CompanyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/CompanyServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/impl/DepartmentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/DepartmentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/impl/DiseaseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/DiseaseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/impl/DispensingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/DispensingServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/impl/DoctorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/DoctorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/impl/ManagerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/ManagerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/impl/MedicineServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/MedicineServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/UserServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/config/LoginInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/config/LoginInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/config/MyMvcConfigure.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/config/MyMvcConfigure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/config/SwaggerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/controller/AppointmentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/controller/AppointmentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/controller/ColumntableController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/controller/ColumntableController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/controller/CompanyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/controller/CompanyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/controller/DepartmentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/controller/DepartmentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/controller/ManagerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/controller/ManagerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/impl/AllergyServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/service/impl/AllergyServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/impl/AppointmentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/service/impl/AppointmentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/impl/ColumntableServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/service/impl/ColumntableServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/impl/CompanyServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/service/impl/CompanyServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/impl/DepartmentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/service/impl/DepartmentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/impl/DiseaseServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/service/impl/DiseaseServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/impl/DispensingServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/service/impl/DispensingServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/impl/DoctorServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/service/impl/DoctorServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/impl/ManagerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/service/impl/ManagerServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/impl/MedicineServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/service/impl/MedicineServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/service/impl/UserServiceImpl.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,30 +102,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/李可文/Desktop/JavaWeb/src/main/java/org/example/controller",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "spring.configuration.checksum": "03b719cb9240be3fcb867cb7fda9e9df"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/李可文/Desktop/JavaWeb/src/main/java/org/example/controller&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;03b719cb9240be3fcb867cb7fda9e9df&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -140,6 +198,11 @@
       <workItem from="1677200614141" duration="13208000" />
       <workItem from="1677285987376" duration="4411000" />
       <workItem from="1686051023446" duration="2145000" />
+      <workItem from="1686118224830" duration="9701000" />
+      <workItem from="1686197553756" duration="2178000" />
+      <workItem from="1686289624833" duration="757000" />
+      <workItem from="1686304442386" duration="1224000" />
+      <workItem from="1686373106888" duration="3851000" />
     </task>
     <task id="LOCAL-00001" summary="无">
       <created>1676809904570</created>

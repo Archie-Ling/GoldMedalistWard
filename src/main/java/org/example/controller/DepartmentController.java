@@ -18,11 +18,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * @author Keat-Jie
- * @version 1.0
- * @date 2023/2/20
- */
+
 @Slf4j//日志
 @RestController//Controller组件
 @RequestMapping("/department")//这里记得改

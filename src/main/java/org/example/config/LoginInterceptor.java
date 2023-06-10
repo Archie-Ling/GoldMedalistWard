@@ -7,10 +7,9 @@ import org.springframework.web.servlet.HandlerInterceptor;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-
-/**
- * Created by zxd on 2023/2/22 14:13
- */
+/*
+* 登陆拦截器
+* */
 public class LoginInterceptor implements HandlerInterceptor {
 
 
